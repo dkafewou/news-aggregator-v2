@@ -1,0 +1,9 @@
+# Jetbrains
+.idea
+
+# venv
+news-env
+
+__pycache__
+
+.DS_Store
