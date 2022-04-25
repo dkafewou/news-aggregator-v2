@@ -1,2 +1,7 @@
 # Jetbrains
 .idea
+
+# venv
+news-env
+
+__pycache__
